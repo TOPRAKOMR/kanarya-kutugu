@@ -1,0 +1,27 @@
+KANARYA KÜTÜĞÜ — iPHONE, ANDROID VE GITHUB PAGES
+
+Güncelleme
+Depodaki index.html, manifest.webmanifest, sw.js ve icons klasörünü bu pakettekilerle değiştirin. Mevcut uygulamayı telefondan silmeyin. Pages yayını yenilendikten sonra uygulamayı kapatıp açın; gerekirse iki kez açın. Eski kayıtlar aynı adres ve aynı uygulama içinde kalır. Güncellemeden önce uygulamadan bir JSON yedeği alın.
+
+İlk GitHub Pages kurulumu
+1. GitHub'da public bir depo açın (ör. kanarya-kutugu).
+2. Bu ZIP'in içindeki index.html, manifest.webmanifest, sw.js ve icons klasörünü deponun köküne yükleyin. ZIP'in kendisini yüklemeyin. KURULUM.txt dosyasını yayımlamak zorunda değilsiniz.
+3. Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+4. Pages'in HTTPS adresini açın. GitHub deposunun dosya listesini değil, çalışan Kanarya Kütüğü sayfasını görmelisiniz.
+
+iPhone kurulumu
+Safari'de Pages adresini açın. Paylaş (Teilen) > Zu Home-Bildschirm hinzufügen > Als Web-App öffnen > Hinzufügen. Ana ekrandaki simgeden açın. İlk açılışta internete bağlanın.
+
+Android kurulumu
+Chrome'da aynı Pages adresini açın. Sağ üstteki üç nokta menüsünden Uygulamayı yükle (Install app / App installieren) veya Ana ekrana ekle (Add to Home screen / Zum Startbildschirm hinzufügen) seçin. Ana ekrandaki simgeden açın.
+
+Üretici profili
+Ana ekrandaki Üretici profili > Profil oluştur veya menüde Üretici profili seçin. Ad, soyad, federasyon/kulüp adı ve logo ekleyin. Bu bilgiler kişisel yedeğe dahildir.
+
+Yedekleme
+Uygulamada Yedekleme > Fotoğraflı yedeği kaydet. Tek .json dosyası kayıtları, logoyu ve kuş fotoğraflarını içerir. iPhone'da Dosyalara Kaydet > iCloud Drive; Android'de Dosyalar veya Google Drive gibi ayrı bir konum seçin. Haftalık ve çok sayıda kayıt sonrasında alın. Ayda bir bilgisayara ayrıca kopyalayın. Bu yedeği GitHub deposuna koymayın.
+Geri yükleme: Yedekleme > Yedek dosyası > Yedeği yükle. İçe aktarma o cihazdaki mevcut verilerin yerine geçer. Önce mevcut cihazın yedeğini alın.
+Telefonlar ve masaüstü otomatik eşitlenmez. Aynı kayıtları taşımak için en güncel JSON yedeğini diğer cihaza içe aktarın. İki cihazda ayrı ayrı yeni kayıtlar oluşturup eski bir yedeği içe aktarmak diğer cihazdaki yeni kayıtları birleştirmez; üzerine yazar.
+
+Önemli
+Uygulamanın kaynak dosyaları GitHub Pages üzerinde herkese açık olabilir; kişisel kayıtlar ve fotoğraflar kendiliğinden GitHub'a gönderilmez. Uygulamayı veya tarayıcı verilerini silmek kayıt kaybına yol açabilir. Pages adresinin/deponun adını değiştirirseniz yeni adres ayrı bir veri alanı açar; önce yedek alın.
